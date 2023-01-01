@@ -26,11 +26,11 @@ Do you have a great idea for a technology product? There's a HUGE gap between a 
 
 I'll help you work through:
 
-**Concept:** What is the thing you want to build? What is it NOT?  
+**CONCEPT:** What is the thing you want to build? What is it NOT?  
 
-**Architecture & Design:** What are its parts? What do they look like? What are they made of? How do they fit together, and exactly what do they do?  
+**ARCHITECTURE & DESIGN:** What are its parts? What do they look like? What are they made of? How do they fit together, and exactly what do they do?  
 
-**Implementation:** How will you build it? How much will it cost? How long will it take... and how early can you begin to recoup your investment?  
+**IMPLEMENTATION:** How will you build it? How much will it cost? How long will it take... and how early can you begin to recoup your investment?  
 
 The most efficient way to do just about anything is to do it right. **From concept to implementation, strong engineering process is my superpower.**
 
