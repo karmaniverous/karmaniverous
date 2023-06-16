@@ -8,7 +8,7 @@ I landed my first development contract in high school in 1985. I enlisted in the
 
 After my military service I helped found a number of technology startups, always in a product development role. In 2008 I landed my first "real" job, writing software to facilitate order entry & execution on the floor of the Chicago Board Options Exchange. In 2011 I founded a company that built data management systems for big financial institutions, including Northwestern Mutual, Invesco, and Bridgewater Associates.
 
-In 2019 I left institutional finance and moved to Bali to chase more interesting problems. I'm deeply involved with Web3 and recently released a Web3 game called Yielda. I also advise a small portfolio of startups on the nuts & bolts of bringing a complex idea into the real world and taking it to market.
+In 2019 I left institutional finance and moved to Bali to chase more interesting problems. I'm deeply involved with Web3 and am perenially about to release a Web3 game called [Yielda](https://preview.yielda.io). I also advise a small portfolio of startups on the nuts & bolts of bringing a complex idea into the real world and taking it to market.
 
 ## My Rules
 
@@ -32,7 +32,7 @@ I'll help you work through:
 
 **IMPLEMENTATION:** How will you build it? How much will it cost? How long will it take... and how early can you begin to recoup your investment?  
 
-The most efficient way to do just about anything is to do it right. **From concept to implementation, strong engineering process is my superpower.**
+The most efficient way to do just about anything is to do it RIGHT. **From concept to implementation, strong engineering process is my superpower.**
 
 ## Contact Me
 
