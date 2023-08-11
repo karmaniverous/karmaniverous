@@ -18,7 +18,7 @@ See [Karmic Rules for Writing Pretty Good Code](https://github.com/karmaniverous
 
 **If you want to get a process right, template it!** See my pinned repos below for some great project starting points.
 
-**Don't repeat yourself!** I'm new to the NPM package game but I'm growing a library of handy solutions to tricky problems. See the list [here](https://www.npmjs.com/settings/karmaniverous/packages).
+**Don't repeat yourself!** I'm growing a library of handy solutions to tricky problems. See the list [here](https://www.npmjs.com/settings/karmaniverous/packages).
 
 ## How Can I Serve You?
 
