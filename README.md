@@ -34,6 +34,12 @@ I'll help you work through:
 
 The most efficient way to do just about anything is to do it RIGHT. **From concept to implementation, strong engineering process is my superpower.**
 
+## So You're A Consultant?
+
+Nah. Consultants are glorified salesmen. I MAKE things, and I already have a job I love. But this ☝️ is exactly how I found it! I love helping people build cool things, so drop me a line and maybe I can help you move the ball forward a notch.
+
 ## Contact Me
+
+
 
 👈 Use one of the links over there!
