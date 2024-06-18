@@ -2,8 +2,6 @@
 
 Write it on my headstone. Not unusual around here, but still.
 
-![My GitHub Stats](https://github-readme-stats-one-drab-12.vercel.app/api?username=karmaniverous&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&include_all_commits=true)
-
 ## My Story
 
 I landed my first development contract in high school in 1985. I enlisted in the U.S. Marine Corps after high school, became a Navy Surface Warfare Officer in 1995, and hung up my uniform in 2000. Along the way I earned a degree in Weapons & Systems Engineering from the U.S. Naval Academy. 
