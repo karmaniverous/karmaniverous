@@ -2,7 +2,7 @@
 
 Write it on my headstone. Not unusual around here, but still.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=karmaniverous&show_icons=true)
+![My GitHub Stats](https://github-readme-stats-one-drab-12.vercel.app/api?username=karmaniverous&show_icons=true&rank_icon=percentile&show=prs_merged_percentage&include_all_commits=true)
 
 ## My Story
 
