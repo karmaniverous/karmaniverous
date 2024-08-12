@@ -12,9 +12,9 @@ In 2019 I left institutional finance and moved to Bali to chase more interesting
 
 - [VeteranCrowd Rewards](https://veterancrowd.com) is a FinTech startp that aims to turn the entire loyalty industry upside down. I am the project's architect & lead dev, and I am VERY proud of the patterns that have come out of this work.
 
-- [metastructure](https://github.com/karmaniverous/metastructure) is one of these patterns: a command-line tool that solves [the trouble with Terraform](https://github.com/karmaniverous/metastructure/wiki/The-Trouble-With-Terraform).
+- [`metastructure`](https://github.com/karmaniverous/metastructure) is one of these patterns: a command-line tool that solves [the trouble with Terraform](https://github.com/karmaniverous/metastructure/wiki/The-Trouble-With-Terraform).
   
-- [get-dotenv](https://github.com/karmaniverous/get-dotenv) is the dotenv-powered automation tool that allows me to perform high-quality releases on 16 API projects, a front end, and over a dozen supporting projects, every two weeks, SINGLE-HANDEDLY. I post around 10k commits a year thanks to this tool. Check it out!
+- [`get-dotenv`](https://github.com/karmaniverous/get-dotenv) is the dotenv-powered automation tool that allows me to perform high-quality releases on 16 API projects, a front end, and over a dozen supporting projects, every two weeks, SINGLE-HANDEDLY. I post around 10k commits a year thanks to this tool. Check it out!
 
 See my repos for way more useful tools & templates! 
 
