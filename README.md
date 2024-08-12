@@ -16,7 +16,7 @@ In 2019 I left institutional finance and moved to Bali to chase more interesting
   
 - [`get-dotenv`](https://github.com/karmaniverous/get-dotenv) is the dotenv-powered automation tool that allows me to perform high-quality releases on 16 API projects, a front end, and over a dozen supporting projects, every two weeks, SINGLE-HANDEDLY. I post around 10k commits a year thanks to this tool. Check it out!
 
-See my repos for way more useful tools & templates! 
+See [my repos](https://github.com/karmaniverous?tab=repositories) for lots more useful tools & templates! 
 
 ## My Rules
 
