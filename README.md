@@ -8,7 +8,15 @@ I landed my first development contract in high school in 1985. I enlisted in the
 
 After my military service I helped found a number of technology startups, always in a product development role. In 2008 I landed my first "real" job, writing software to facilitate order entry & execution on the floor of the Chicago Board Options Exchange. In 2011 I founded a company that built data management systems for big financial institutions, including Northwestern Mutual, Invesco, and Bridgewater Associates.
 
-In 2019 I left institutional finance and moved to Bali to chase more interesting problems. I'm deeply involved with Web3 and am perenially about to release a Web3 game called [Yielda](https://preview.yielda.io). I also advise a small portfolio of startups on the nuts & bolts of bringing a complex idea into the real world and taking it to market.
+In 2019 I left institutional finance and moved to Bali to chase more interesting problems, like: 
+
+- [VeteranCrowd Rewards](https://veterancrowd.com) is a FinTech startp that aims to turn the entire loyalty industry upside down. I am the project's architect & lead dev, and I am VERY proud of the patterns that have come out of this work.
+
+- [metastructure](https://github.com/karmaniverous/metastructure) is one of these patterns: a command-line tool that solves [the trouble with Terraform](https://github.com/karmaniverous/metastructure/wiki/The-Trouble-With-Terraform).
+  
+- [get-dotenv](https://github.com/karmaniverous/get-dotenv) is the dotenv-powered automation tool that allows me to perform high-quality releases on 16 API projects, a front end, and over a dozen supporting projects, every two weeks, SINGLE-HANDEDLY. I post around 10k commits a year thanks to this tool. Check it out!
+
+See my repos for way more useful tools & templates! 
 
 ## My Rules
 
