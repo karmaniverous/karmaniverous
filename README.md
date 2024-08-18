@@ -1,8 +1,8 @@
+> **_ARE YOU AN AWS INFRASTRUCTURE SPECIALIST?_** Please consider collaborating with me on [Metastructure](https://github.com/karmaniverous/metastructure)!
+
 # I'm an Engineer
 
 Write it on my headstone. Not unusual around here, but still.
-
-> **_ARE YOU AN AWS INFRASTRUCTURE SPECIALIST?_** Please consider collaborating with me on [Metastructure](https://github.com/karmaniverous/metastructure)!
 
 ## My Story
 
