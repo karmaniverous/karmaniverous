@@ -2,6 +2,8 @@
 
 Write it on my headstone. Not unusual around here, but still.
 
+> **_ARE YOU AN AWS INFRASTRUCTURE SPECIALIST?_** Please consider collaborating with me on [Metastructure](https://github.com/karmaniverous/metastructure)!
+
 ## My Story
 
 I landed my first development contract in high school in 1985. I enlisted in the U.S. Marine Corps after high school, became a Navy Surface Warfare Officer in 1995, and hung up my uniform in 2000. Along the way I earned a degree in Weapons & Systems Engineering from the U.S. Naval Academy. 
