@@ -2,7 +2,7 @@
 
 # I'm an Engineer
 
-Write it on my headstone. Not unusual around here, but still.
+Stereotypes exist for a reason.
 
 ## My Story
 
