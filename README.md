@@ -1,4 +1,4 @@
-> **_ARE YOU AN AWS INFRASTRUCTURE SPECIALIST?_** Please consider collaborating with me on [Metastructure](https://github.com/karmaniverous/metastructure)!
+> **_STAN Tames Autoregressive Nonsense!_** STAN is an AI-assisted dev tool for real professional engineers. [Try STAN in a project today!](https://github.com/karmaniverous/stan-cli)!
 
 # I'm an Engineer
 
